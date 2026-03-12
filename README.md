@@ -1,6 +1,6 @@
 # Login & Signup Pages
 
-ICSI 418 Homework # 1:
+ICSI418Y-Software Engineering Homework # 1:
 A simple login and signup form built with HTML and CSS.
 
 ## Files
